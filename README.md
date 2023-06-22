@@ -1,1 +1,2 @@
-# basicsAREimportant1
+# Basics are important
+HTML, CSS & JavaScript
